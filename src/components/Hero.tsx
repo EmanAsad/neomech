@@ -45,7 +45,7 @@ const Hero = () => {
             href="https://wa.me/03253828772?text=Hi! I'm interested in your laser cutting services."
             target="_blank"
             rel="noopener noreferrer"
-            className="border-2 border-white hover:bg-white hover:text-gray-900 text-white px-8 py-4 rounded-lg font-bold text-lg transition-all duration-200 flex items-center group"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg transition-colors duration-200 font-medium flex items-center group"
           >
             <MessageCircle className="mr-2" size={20} />
             WhatsApp Order
